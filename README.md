@@ -9,6 +9,7 @@
 ##  Step x
 - [ ] Fast.ai (Online Course Part 1)
 - [ ] Introduction to AI (Udacity Course)
+- [ ] Intro to Machine Learning (Udacity Course)
 - [ ] Read Matrix Calculus for Deep Learning (Terence Parr and Jeremy Howard)
 
 ##  Step x
@@ -25,7 +26,7 @@
 ##  Step x
 - [ ] Artificial Intelligence: A modern approach [Part 1]
 - [ ] CS 188 (Youtube videos)
-- [ ] Intro to Machine Learning (Udacity Course)
+- [ ] The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Hastie, et al
 - [ ] How to Grow a Mind: Statistics, Structure and Abstraction by Josh Tenenbaum @ AAAI 2012
 
 ##  Step x
@@ -34,35 +35,37 @@
 - [ ] Reinforcement Learning (David Silver or CS294)
 
 ##  Step x
-- [ ] The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Hastie, et al
+- [ ] Computational Neururoscience coursera
 - [ ] CS 540 Machine Learning (Online videos) [Nando de Freitas]
 - [ ] Successful Backtesting of Algorithmic Trading Strategies - Part I
 
 ##  Step x
-- [ ] Computational Neururoscience coursera
+
 - [ ] Udacity Machine Learning for Trading
 - [ ] Successful Backtesting of Algorithmic Trading Strategies - Part II
+- [ ] Critical Algorithm Studies: a Reading List by Tarleton Gillespie and Nick Seaver
 
 ##  Step x
 - [ ] Hallite II Challenge
 - [ ] Project with NLTK
 - [ ] Read Papers [3 - 4 papers]
-- [ ] Critical Algorithm Studies: a Reading List by Tarleton Gillespie and Nick Seaver
 
 ##  Step x
 - [ ] Artificial Intelligence: A modern approach [Part 3]
 - [ ] Neural Networks for Machine Learning (Hinton) [Coursera Course]
 - [ ] Read Papers [1 - 2 papers]
+- [ ] Trading book or Philisopiical or a Richard Hamming book
 
 ##  Step x
 - [ ] Probabilistic Graphical Models Specialization [Part 1]
 - [ ] Deep Learning (Ian Goodfellow) [Part 1] [Coursera Course]
+- [ ] Superintelligence book
 - [ ] Read Papers [1 - 2 papers]
 
 ##  Step x
 - [ ] Probabilistic Graphical Models Specialization [Part 1]
 - [ ] Deep Learning (Ian Goodfellow) [Part 1]
-- [ ] Papers [1 - 2 papers]
+- [ ] Quantitative Trading: How to Build Your Own Algorithmic Trading Business - Ernie Chan
 - [ ] Papers [1 - 2 papers]
 
 ## - Step x
