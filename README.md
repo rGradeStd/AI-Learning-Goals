@@ -1,52 +1,68 @@
 # AI-Learning-Goals
 
-## - Step x
+##  Step x
 - [X] Naked Statistics (Charles Wheelan)
 - [ ] Linear Algebra (MIT OCW)
 - [ ] Big Picture Of Calclus (MIT OCW)
 - [ ] Art of Engineering and Science Learning to Learn
 
-## - Step x
+##  Step x
 - [ ] Fast.ai (Online Course Part 1)
 - [ ] Introduction to AI (Udacity Course)
 - [ ] Read Matrix Calculus for Deep Learning (Terence Parr and Jeremy Howard)
 
-## - Step x
+##  Step x
 - [ ] Coursera 5 Course Specialization (Ng, in python)
 - [ ] Other Ng course on Coursera (longer one, in matlab)
-
-## - Step x
-- [ ] Capstone project
-- [ ] Fast Ai (part 2)
 - [ ] How to Grow a Mind: Statistics, Structure and Abstraction by Josh Tenenbaum @ AAAI 2012
 
-## - Step x
-- [ ] Deep Learning (Udacity Course)
+##  Step x
+- [ ] Capstone project
+- [ ] Fast Ai (part 2)
+- [ ] Beginner's Guide to Quantitative Trading (Quantstart)
+- [ ] How to Identify Algorithmic Trading Strategies (Quantstart)
+
+##  Step x
 - [ ] Artificial Intelligence: A modern approach [Part 1]
 - [ ] CS 188 (Youtube videos)
 - [ ] Intro to Machine Learning (Udacity Course)
 - [ ] How to Grow a Mind: Statistics, Structure and Abstraction by Josh Tenenbaum @ AAAI 2012
 
-## - Step x
+##  Step x
 - [ ] Artificial Intelligence: A modern approach [Part 2]
-- [ ] CS 540 Machine Learning (Online videos) [Nando de Freitas]
+- [ ] How to Identify Algorithmic Trading Strategies
 - [ ] Reinforcement Learning (David Silver or CS294)
-- [ ] Computational Neururoscience coursera
 
-## - Step x
+##  Step x
+- [ ] The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Hastie, et al
+- [ ] CS 540 Machine Learning (Online videos) [Nando de Freitas]
+- [ ] Successful Backtesting of Algorithmic Trading Strategies - Part I
+
+##  Step x
+- [ ] Computational Neururoscience coursera
+- [ ] Udacity Machine Learning for Trading
+- [ ] Successful Backtesting of Algorithmic Trading Strategies - Part II
+
+##  Step x
 - [ ] Hallite II Challenge
 - [ ] Project with NLTK
 - [ ] Read Papers [3 - 4 papers]
 - [ ] Critical Algorithm Studies: a Reading List by Tarleton Gillespie and Nick Seaver
 
-## - Step x
+##  Step x
 - [ ] Artificial Intelligence: A modern approach [Part 3]
 - [ ] Neural Networks for Machine Learning (Hinton) [Coursera Course]
 - [ ] Read Papers [1 - 2 papers]
 
-## - Step x
+##  Step x
+- [ ] Probabilistic Graphical Models Specialization [Part 1]
+- [ ] Deep Learning (Ian Goodfellow) [Part 1] [Coursera Course]
+- [ ] Read Papers [1 - 2 papers]
+
+##  Step x
 - [ ] Probabilistic Graphical Models Specialization [Part 1]
 - [ ] Deep Learning (Ian Goodfellow) [Part 1]
+- [ ] Papers [1 - 2 papers]
 - [ ] Papers [1 - 2 papers]
 
 ## - Step x
@@ -55,12 +71,12 @@
 - [ ] Papers [1 - 2 papers]
 - [ ] Backlogs
 
-## - Step x
+##  Step x
 - [ ] Probabilistic Graphical Models Specialization [Part 3]
 - [ ] Deep Learning (Ian Goodfellow) [Part 3] (If not finished)
 - [ ] Backlogs
 
-## - Step x
+##  Step x
 - [ ] Backlogs
 - [ ] Papers [6 - 8 papers]
 - [ ] 
@@ -73,3 +89,5 @@
 - Think Bayes [Allen B. Downey]
 
 Papers i will read, implement and summarize possibly post on here in tex or medium post's
+
+I want to implement a AI trading bot, for me to do so i want to learn The main techniques of  Multivariate Linear Regression, Logistic Regression, Resampling Techniques, Tree-Based Methods (including Random Forests), Support Vector Machines (SVM), Principal Component Analysis (PCA), Clustering (K-Means, Hierarchical), Kernal Methods and Neural Networks.
