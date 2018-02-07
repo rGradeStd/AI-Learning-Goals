@@ -1,1 +1,75 @@
 # AI-Learning-Goals
+
+## - Step x
+- [X] Naked Statistics (Charles Wheelan)
+- [ ] Linear Algebra (MIT OCW)
+- [ ] Big Picture Of Calclus (MIT OCW)
+- [ ] Art of Engineering and Science Learning to Learn
+
+## - Step x
+- [ ] Fast.ai (Online Course Part 1)
+- [ ] Introduction to AI (Udacity Course)
+- [ ] Read Matrix Calculus for Deep Learning (Terence Parr and Jeremy Howard)
+
+## - Step x
+- [ ] Coursera 5 Course Specialization (Ng, in python)
+- [ ] Other Ng course on Coursera (longer one, in matlab)
+
+## - Step x
+- [ ] Capstone project
+- [ ] Fast Ai (part 2)
+- [ ] How to Grow a Mind: Statistics, Structure and Abstraction by Josh Tenenbaum @ AAAI 2012
+
+## - Step x
+- [ ] Deep Learning (Udacity Course)
+- [ ] Artificial Intelligence: A modern approach [Part 1]
+- [ ] CS 188 (Youtube videos)
+- [ ] Intro to Machine Learning (Udacity Course)
+- [ ] How to Grow a Mind: Statistics, Structure and Abstraction by Josh Tenenbaum @ AAAI 2012
+
+## - Step x
+- [ ] Artificial Intelligence: A modern approach [Part 2]
+- [ ] CS 540 Machine Learning (Online videos) [Nando de Freitas]
+- [ ] Reinforcement Learning (David Silver or CS294)
+- [ ] Computational Neururoscience coursera
+
+## - Step x
+- [ ] Hallite II Challenge
+- [ ] Project with NLTK
+- [ ] Read Papers [3 - 4 papers]
+- [ ] Critical Algorithm Studies: a Reading List by Tarleton Gillespie and Nick Seaver
+
+## - Step x
+- [ ] Artificial Intelligence: A modern approach [Part 3]
+- [ ] Neural Networks for Machine Learning (Hinton) [Coursera Course]
+- [ ] Read Papers [1 - 2 papers]
+
+## - Step x
+- [ ] Probabilistic Graphical Models Specialization [Part 1]
+- [ ] Deep Learning (Ian Goodfellow) [Part 1]
+- [ ] Papers [1 - 2 papers]
+
+## - Step x
+- [ ] Probabilistic Graphical Models Specialization [Part 2]
+- [ ] Deep Learning (Ian Goodfellow) [Part 2]
+- [ ] Papers [1 - 2 papers]
+- [ ] Backlogs
+
+## - Step x
+- [ ] Probabilistic Graphical Models Specialization [Part 3]
+- [ ] Deep Learning (Ian Goodfellow) [Part 3] (If not finished)
+- [ ] Backlogs
+
+## - Step x
+- [ ] Backlogs
+- [ ] Papers [6 - 8 papers]
+- [ ] 
+
+
+## Try to Fit in
+- Introduction to Statistical Learning
+- Elementary Statistical Learning
+- Think Stats [Allen B. Downey]
+- Think Bayes [Allen B. Downey]
+
+Papers i will read, implement and summarize possibly post on here in tex or medium post's
