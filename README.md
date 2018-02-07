@@ -82,7 +82,6 @@
 ##  Step x
 - [ ] Backlogs
 - [ ] Papers [6 - 8 papers]
-- [ ] 
 
 
 ## Try to Fit in
