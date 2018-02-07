@@ -2,9 +2,11 @@
 
 ##  Step x
 - [X] Naked Statistics (Charles Wheelan)
+- [X] An Introduction to Neural Networks - Kevin Gurney
 - [ ] Linear Algebra (MIT OCW)
 - [ ] Big Picture Of Calclus (MIT OCW)
 - [ ] Art of Engineering and Science Learning to Learn
+
 
 ##  Step x
 - [ ] Fast.ai (Online Course Part 1)
@@ -91,5 +93,7 @@
 - Think Bayes [Allen B. Downey]
 
 Papers i will read, implement and summarize possibly post on here in tex or medium post's
+
+Fill in unknown and or weak concepts, Quantstart articles have very solid resourses https://www.quantstart.com/articles
 
 I want to implement a AI trading bot, for me to do so i want to learn The main techniques of  Multivariate Linear Regression, Logistic Regression, Resampling Techniques, Tree-Based Methods (including Random Forests), Support Vector Machines (SVM), Principal Component Analysis (PCA), Clustering (K-Means, Hierarchical), Kernal Methods and Neural Networks.
