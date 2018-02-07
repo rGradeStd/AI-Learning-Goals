@@ -1,12 +1,12 @@
 # AI-Learning-Goals
 
-##  Step x
+##  Step x (benificial background information)
 - [X] Naked Statistics (Charles Wheelan)
 - [X] An Introduction to Neural Networks - Kevin Gurney
 - [ ] Linear Algebra (MIT OCW)
+- [ ] 3Blue1Brown Neural Nets and Linear Algebra videos. (super intuitive)
 - [ ] Big Picture Of Calclus (MIT OCW)
-- [ ] Art of Engineering and Science Learning to Learn
-
+- [ ] Art of Engineering and Science Learning to Learn - Richard Hamming
 
 ##  Step x
 - [ ] Fast.ai (Online Course Part 1)
@@ -17,11 +17,11 @@
 ##  Step x
 - [ ] Coursera 5 Course Specialization (Ng, in python)
 - [ ] Other Ng course on Coursera (longer one, in matlab)
-- [ ] How to Grow a Mind: Statistics, Structure and Abstraction by Josh Tenenbaum @ AAAI 2012
+- [ ] How to Grow a Mind: Statistics, Structure and Abstraction by Josh Tenenbaum @ AAAI 2012 (hour long talk)
 
 ##  Step x
 - [ ] Capstone project
-- [ ] Fast Ai (part 2)
+- [ ] Fast Ai (part 2) (videos)
 - [ ] Beginner's Guide to Quantitative Trading (Quantstart)
 - [ ] How to Identify Algorithmic Trading Strategies (Quantstart)
 
@@ -29,12 +29,11 @@
 - [ ] Artificial Intelligence: A modern approach [Part 1]
 - [ ] CS 188 (Youtube videos)
 - [ ] The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Hastie, et al
-- [ ] How to Grow a Mind: Statistics, Structure and Abstraction by Josh Tenenbaum @ AAAI 2012
 
 ##  Step x
 - [ ] Artificial Intelligence: A modern approach [Part 2]
-- [ ] How to Identify Algorithmic Trading Strategies
-- [ ] Reinforcement Learning (David Silver or CS294)
+- [ ] How to Identify Algorithmic Trading Strategies (Quantstart)
+- [ ] Reinforcement Learning (David Silver or CS294 both have lecture videos online)
 
 ##  Step x
 - [ ] Computational Neururoscience coursera
@@ -42,7 +41,6 @@
 - [ ] Successful Backtesting of Algorithmic Trading Strategies - Part I
 
 ##  Step x
-
 - [ ] Udacity Machine Learning for Trading
 - [ ] Successful Backtesting of Algorithmic Trading Strategies - Part II
 - [ ] Critical Algorithm Studies: a Reading List by Tarleton Gillespie and Nick Seaver
@@ -92,7 +90,7 @@
 - Think Stats [Allen B. Downey]
 - Think Bayes [Allen B. Downey]
 
-Papers i will read, implement and summarize possibly post on here in tex or medium post's
+Papers i will read, implement and summarize, possibly post on here in tex or medium posts. 
 
 Fill in unknown and or weak concepts, Quantstart articles have very solid resourses https://www.quantstart.com/articles
 
