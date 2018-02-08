@@ -63,7 +63,7 @@
 - [ ] Read Papers [1 - 2 papers]
 
 ##  Step x
-- [ ] Probabilistic Graphical Models Specialization [Part 1]
+- [ ] CS231
 - [ ] Deep Learning (Ian Goodfellow) [Part 1]
 - [ ] Quantitative Trading: How to Build Your Own Algorithmic Trading Business - Ernie Chan
 - [ ] Papers [1 - 2 papers]
@@ -72,15 +72,12 @@
 - [ ] Probabilistic Graphical Models Specialization [Part 2]
 - [ ] Deep Learning (Ian Goodfellow) [Part 2]
 - [ ] Papers [1 - 2 papers]
-- [ ] Backlogs
 
 ##  Step x
 - [ ] Probabilistic Graphical Models Specialization [Part 3]
 - [ ] Deep Learning (Ian Goodfellow) [Part 3] (If not finished)
-- [ ] Backlogs
 
 ##  Step x
-- [ ] Backlogs
 - [ ] Papers [6 - 8 papers]
 
 
