@@ -7,7 +7,8 @@
 - [ ] 3Blue1Brown Neural Nets and Linear Algebra videos. (super intuitive)
 - [ ] Big Picture Of Calclus (MIT OCW)
 - [ ] Art of Engineering and Science Learning to Learn - Richard Hamming
-
+- [ ] Introduction to Mathematical Reasoning - Coursera
+- [ ] Introduction to Logic - Coursera
 ##  Step x
 - [ ] Fast.ai (Online Course Part 1)
 - [ ] Introduction to AI (Udacity Course)
