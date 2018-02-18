@@ -9,6 +9,9 @@
 - [ ] Art of Engineering and Science Learning to Learn - Richard Hamming
 - [ ] Introduction to Mathematical Reasoning - Coursera
 - [ ] Introduction to Logic - Coursera
+- [ ] How to Think Like a Computer Scientist - Runestone interactive
+- [ ] Data Structures with Python - Runestone Academy
+
 ##  Step x
 - [ ] Fast.ai (Online Course Part 1)
 - [ ] Introduction to AI (Udacity Course)
