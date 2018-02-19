@@ -1,8 +1,8 @@
 # AI-Learning-Goals
 
 ##  Step x (benificial background information)
-- [X] Naked Statistics (Charles Wheelan)
-- [X] An Introduction to Neural Networks - Kevin Gurney
+- [ ] Naked Statistics (Charles Wheelan)
+- [ ] An Introduction to Neural Networks - Kevin Gurney
 - [ ] Linear Algebra (MIT OCW)
 - [ ] 3Blue1Brown Neural Nets and Linear Algebra videos. (super intuitive)
 - [ ] Big Picture Of Calclus (MIT OCW)
@@ -13,13 +13,13 @@
 - [ ] Data Structures with Python - Runestone Academy
 
 ##  Step x
-- [x] Fast.ai (Online Course Part 1)
-- [x] Introduction to AI (Udacity Course)
+- [ ] Fast.ai (Online Course Part 1)
+- [ ] Introduction to AI (Udacity Course)
 - [ ] Intro to Machine Learning (Udacity Course)
 - [ ] Read Matrix Calculus for Deep Learning (Terence Parr and Jeremy Howard)
 
 ##  Step x
-- [x] Coursera 5 Course Specialization (Ng, in python)
+- [ ] Coursera 5 Course Specialization (Ng, in python)
 - [ ] Other Ng course on Coursera (longer one, in matlab)
 - [ ] How to Grow a Mind: Statistics, Structure and Abstraction by Josh Tenenbaum @ AAAI 2012 (hour long talk)
 
