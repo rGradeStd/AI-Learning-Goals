@@ -91,6 +91,10 @@
 - Think Stats [Allen B. Downey]
 - Think Bayes [Allen B. Downey]
 
+
+
+need to add in cs 898 and 698
+
 Papers i will read, implement and summarize, possibly post on here in tex or medium posts. 
 
 Fill in unknown and or weak concepts, Quantstart articles have very solid resourses https://www.quantstart.com/articles
