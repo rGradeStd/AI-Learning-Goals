@@ -93,7 +93,7 @@
 
 
 
-need to add in cs 898 and 698
+need to add in cs 898 and 698 audit courses at waterloo
 
 Papers i will read, implement and summarize, possibly post on here in tex or medium posts. 
 
