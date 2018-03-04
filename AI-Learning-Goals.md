@@ -23,7 +23,7 @@
 - [x] Other Ng course on Coursera (longer one, in matlab)
 - [x] How to Grow a Mind: Statistics, Structure and Abstraction by Josh Tenenbaum @ AAAI 2012 (hour long talk)
 
-##Take a little break to learn a lot of math and stats aswell as information theory
+## Take a little break to learn a lot of math and stats aswell as information theory
 
 ##  Step x
 - [ ] Capstone project
