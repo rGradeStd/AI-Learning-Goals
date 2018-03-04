@@ -99,6 +99,8 @@ Cover, T. and Thomas, J. "Elements of Information Theory" Wiley.
 - [ ] Read Papers [1 - 2 papers]
 - [ ] Trading book or Philisopiical or a Richard Hamming book
 
+## At this point you should be doing lots of kaggle competitions.
+
 ##  Step x
 - [ ] Probabilistic Graphical Models Specialization [Part 1]
 - [ ] Deep Learning (Ian Goodfellow) [Part 1] [Coursera Course]
@@ -110,11 +112,15 @@ Cover, T. and Thomas, J. "Elements of Information Theory" Wiley.
 - [ ] Deep Learning (Ian Goodfellow) [Part 1]
 - [ ] Quantitative Trading: How to Build Your Own Algorithmic Trading Business - Ernie Chan
 - [ ] Papers [1 - 2 papers]
+- [ ] Kaggle competitions
+
 
 ## - Step x
 - [ ] Probabilistic Graphical Models Specialization [Part 2]
 - [ ] Deep Learning (Ian Goodfellow) [Part 2]
 - [ ] Papers [1 - 2 papers]
+- [ ] Kaggle competitions
+
 
 ##  Step x
 - [ ] Probabilistic Graphical Models Specialization [Part 3]
@@ -123,9 +129,11 @@ Cover, T. and Thomas, J. "Elements of Information Theory" Wiley.
 
 ##  Step x
 - [ ] Papers [6 - 8 papers]
+- [ ] Kaggle competitions
 
 
-## Try to Fit in
+
+## Great you should now roughly have a PHD level understanding of AI. Choose something you find most fascinating and specialize. Keep reading tons of papers, attending conferences and working with your peers.
 
 
 
