@@ -9,3 +9,8 @@ All homework assignments from online courses and problems from textbooks should 
 This summer I will also be Auditing cs 898 and 698 at the University Of Waterloo.
 
 And remember the internet is the best university, tons of resources can be found online.
+
+
+
+
+I will eventually get to a section on computer architecture (inspired from googles tpu's that do 256 x 256 matrix multliplication in one clock cycle, Wow!)
