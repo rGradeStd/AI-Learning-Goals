@@ -6,7 +6,7 @@
 - [x] Linear Algebra (MIT OCW)
 - [x] 3Blue1Brown Neural Nets and Linear Algebra videos. (super intuitive)
 - [x] Big Picture Of Calclus (MIT OCW)
-- [x] Art of Engineering and Science Learning to Learn - Richard Hamming
+- [x] Art of Engineering and Science Learning to Learn - Richard Hamming (Probably my favorite book of all time)
 - [x] Introduction to Mathematical Reasoning - Coursera
 - [x] Introduction to Logic - Coursera
 - [x] How to Think Like a Computer Scientist - Runestone interactive
