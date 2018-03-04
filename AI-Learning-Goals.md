@@ -65,8 +65,7 @@ Cover, T. and Thomas, J. "Elements of Information Theory" Wiley.
 ##  Step x
 - [ ] Capstone project (damaged photo restoration)
 - [ ] Fast Ai (part 2) (videos)
-- [ ] Beginner's Guide to Quantitative Trading (Quantstart)
-- [ ] How to Identify Algorithmic Trading Strategies (Quantstart)
+
 
 ##  Step x
 - [ ] Artificial Intelligence: A modern approach [Part 1]
@@ -75,18 +74,18 @@ Cover, T. and Thomas, J. "Elements of Information Theory" Wiley.
 
 ##  Step x
 - [ ] Artificial Intelligence: A modern approach [Part 2]
-- [ ] How to Identify Algorithmic Trading Strategies (Quantstart)
 - [ ] Reinforcement Learning (David Silver or CS294 both have lecture videos online)
+- [ ] Read Papers [1 - 2 papers]
 
 ##  Step x
 - [ ] Computational Neururoscience coursera
 - [ ] CS 540 Machine Learning (Online videos) [Nando de Freitas]
-- [ ] Successful Backtesting of Algorithmic Trading Strategies - Part I
+- [ ] Read Papers [1 - 2 papers]
 
 ##  Step x
 - [ ] Udacity Machine Learning for Trading
-- [ ] Successful Backtesting of Algorithmic Trading Strategies - Part II
 - [ ] Critical Algorithm Studies: a Reading List by Tarleton Gillespie and Nick Seaver
+- [ ] Read Papers [1 - 2 papers]
 
 ##  Step x
 - [ ] Hallite II Challenge
@@ -110,17 +109,14 @@ Cover, T. and Thomas, J. "Elements of Information Theory" Wiley.
 ##  Step x
 - [ ] CS231
 - [ ] Deep Learning (Ian Goodfellow) [Part 1]
-- [ ] Quantitative Trading: How to Build Your Own Algorithmic Trading Business - Ernie Chan
 - [ ] Papers [1 - 2 papers]
 - [ ] Kaggle competitions
-
 
 ## - Step x
 - [ ] Probabilistic Graphical Models Specialization [Part 2]
 - [ ] Deep Learning (Ian Goodfellow) [Part 2]
 - [ ] Papers [1 - 2 papers]
 - [ ] Kaggle competitions
-
 
 ##  Step x
 - [ ] Probabilistic Graphical Models Specialization [Part 3]
@@ -131,11 +127,14 @@ Cover, T. and Thomas, J. "Elements of Information Theory" Wiley.
 - [ ] Papers [6 - 8 papers]
 - [ ] Kaggle competitions
 
-
-
 ## Great you should now roughly have a pretty good understanding of machine learning stuff. Choose something you find most fascinating and specialize. Keep reading tons of papers, attending conferences and working with your peers.
 
-
+## Step x (trading resources, will be done throughout AI learning)
+- [ ] Beginner's Guide to Quantitative Trading (Quantstart)
+- [ ] How to Identify Algorithmic Trading Strategies (Quantstart)
+- [ ] Successful Backtesting of Algorithmic Trading Strategies - Part I
+- [ ] Successful Backtesting of Algorithmic Trading Strategies - Part II
+- [ ] Quantitative Trading: How to Build Your Own Algorithmic Trading Business - Ernie Chan
 
 Some of my potential projects include damaged photo restoration, ai stock trading system, machine learning to generate css, various robotics based AI (servo arm to play tic tac toe) and much more.
 
