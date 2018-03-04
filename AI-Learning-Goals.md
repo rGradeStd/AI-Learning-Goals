@@ -112,7 +112,7 @@ Cover, T. and Thomas, J. "Elements of Information Theory" Wiley.
 - [ ] Papers [1 - 2 papers]
 - [ ] Kaggle competitions
 
-## - Step x
+##  Step x
 - [ ] Probabilistic Graphical Models Specialization [Part 2]
 - [ ] Deep Learning (Ian Goodfellow) [Part 2]
 - [ ] Papers [1 - 2 papers]
