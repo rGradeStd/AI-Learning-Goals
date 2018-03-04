@@ -25,45 +25,45 @@
 
 ## Take a little break to learn a lot of math and stats aswell as information theory
 
-Currently I am reading Introduction to statistical learning, and Elements of statisitcal learning 
+Currently I am reading Introduction to statistical learning, and Elements of statisitcal learning as well as - Think Stats, and Think Bayes [Allen B. Downey]
 
 From here on I will do the following (List taken from Michael Jordan's recommended readings)
 
-Ferguson, T. (1996). "A Course in Large Sample Theory" Chapman & Hall/CRC.
+- [ ]Ferguson, T. (1996). "A Course in Large Sample Theory" Chapman & Hall/CRC.
 
-You'll need to learn something about asymptotics at some point, and a good starting place is:
+- [ ]You'll need to learn something about asymptotics at some point, and a good starting place is:
 Lehmann, E. (2004). "Elements of Large-Sample Theory" Springer.
 
-Those are all frequentist books. You should also read something Bayesian:
+- [ ]Those are all frequentist books. You should also read something Bayesian:
 Gelman, A. et al. (2003). "Bayesian Data Analysis" Chapman & Hall/CRC.
 
-and you should start to read about Bayesian computation:
+- [ ]and you should start to read about Bayesian computation:
 Robert, C. and Casella, G. (2005). "Monte Carlo Statistical Methods" Springer.
 
-On the probability front, a good intermediate text is:
+- [ ]On the probability front, a good intermediate text is:
 Grimmett, G. and Stirzaker, D. (2001). "Probability and Random Processes" Oxford.
 
-At a more advanced level, a very good text is the following:
+- [ ]At a more advanced level, a very good text is the following:
 Pollard, D. (2001). "A User's Guide to Measure Theoretic Probability" Cambridge.
 
-The standard advanced textbook is Durrett, R. (2005). "Probability: Theory and Examples" Duxbury.
+- [ ]The standard advanced textbook is Durrett, R. (2005). "Probability: Theory and Examples" Duxbury.
 
-Machine learning research also reposes on optimization theory. A good starting book on linear optimization that will prepare you for convex optimization:
+- [ ]Machine learning research also reposes on optimization theory. A good starting book on linear optimization that will prepare you for convex optimization:
 Bertsimas, D. and Tsitsiklis, J. (1997). "Introduction to Linear Optimization" Athena.
 
-And then you can graduate to:
+- [ ]And then you can graduate to:
 Boyd, S. and Vandenberghe, L. (2004). "Convex Optimization" Cambridge.
 
-Getting a full understanding of algorithmic linear algebra is also important. At some point you should feel familiar with most of the material in
+- [ ]Getting a full understanding of algorithmic linear algebra is also important. At some point you should feel familiar with most of the material in
 Golub, G., and Van Loan, C. (1996). "Matrix Computations" Johns Hopkins.
 
-It's good to know some information theory. The classic is:
+- [ ]It's good to know some information theory. The classic is:
 Cover, T. and Thomas, J. "Elements of Information Theory" Wiley.
 
-Finally, if you want to start to learn some more abstract math, you might want to start to learn some functional analysis (if you haven't already). Functional analysis is essentially linear algebra in infinite dimensions, and it's necessary for kernel methods, for nonparametric Bayesian methods, and for various other topics. Here's a book that I find very readable:Kreyszig, E. (1989). "Introductory Functional Analysis with Applications" Wiley.
+- [ ]Finally, if you want to start to learn some more abstract math, you might want to start to learn some functional analysis (if you haven't already). Functional analysis is essentially linear algebra in infinite dimensions, and it's necessary for kernel methods, for nonparametric Bayesian methods, and for various other topics. Here's a book that I find very readable:Kreyszig, E. (1989). "Introductory Functional Analysis with Applications" Wiley.
 
 ##  Step x
-- [ ] Capstone project
+- [ ] Capstone project (damaged photo restoration)
 - [ ] Fast Ai (part 2) (videos)
 - [ ] Beginner's Guide to Quantitative Trading (Quantstart)
 - [ ] How to Identify Algorithmic Trading Strategies (Quantstart)
@@ -119,18 +119,17 @@ Finally, if you want to start to learn some more abstract math, you might want t
 ##  Step x
 - [ ] Probabilistic Graphical Models Specialization [Part 3]
 - [ ] Deep Learning (Ian Goodfellow) [Part 3] (If not finished)
+- [ ] Kaggle competitions
 
 ##  Step x
 - [ ] Papers [6 - 8 papers]
 
 
 ## Try to Fit in
-- Introduction to Statistical Learning
-- Elementary Statistical Learning
-- Think Stats [Allen B. Downey]
-- Think Bayes [Allen B. Downey]
 
 
+
+Some of my potential projects include damaged photo restoration, ai stock trading system, machine learning to generate css, various robotics based AI (servo arm to play tic tac toe) and much more.
 
 need to add in cs 898 and 698 audit courses at waterloo
 
