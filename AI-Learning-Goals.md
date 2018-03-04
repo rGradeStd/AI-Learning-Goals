@@ -1,27 +1,27 @@
 # AI-Learning-Goals
 
 ##  Step x (benificial background information)
-- [ ] Naked Statistics (Charles Wheelan)
-- [ ] An Introduction to Neural Networks - Kevin Gurney
-- [ ] Linear Algebra (MIT OCW)
-- [ ] 3Blue1Brown Neural Nets and Linear Algebra videos. (super intuitive)
-- [ ] Big Picture Of Calclus (MIT OCW)
-- [ ] Art of Engineering and Science Learning to Learn - Richard Hamming
-- [ ] Introduction to Mathematical Reasoning - Coursera
-- [ ] Introduction to Logic - Coursera
-- [ ] How to Think Like a Computer Scientist - Runestone interactive
-- [ ] Data Structures with Python - Runestone Academy
+- [x] Naked Statistics (Charles Wheelan)
+- [x] An Introduction to Neural Networks - Kevin Gurney
+- [x] Linear Algebra (MIT OCW)
+- [x] 3Blue1Brown Neural Nets and Linear Algebra videos. (super intuitive)
+- [x] Big Picture Of Calclus (MIT OCW)
+- [x] Art of Engineering and Science Learning to Learn - Richard Hamming
+- [x] Introduction to Mathematical Reasoning - Coursera
+- [x] Introduction to Logic - Coursera
+- [x] How to Think Like a Computer Scientist - Runestone interactive
+- [x] Data Structures with Python - Runestone Academy
 
 ##  Step x
-- [ ] Fast.ai (Online Course Part 1)
-- [ ] Introduction to AI (Udacity Course)
-- [ ] Intro to Machine Learning (Udacity Course)
-- [ ] Read Matrix Calculus for Deep Learning (Terence Parr and Jeremy Howard)
+- [x] Fast.ai (Online Course Part 1)
+- [x] Introduction to AI (Udacity Course)
+- [x] Intro to Machine Learning (Udacity Course)
+- [x] Read Matrix Calculus for Deep Learning (Terence Parr and Jeremy Howard)
 
 ##  Step x
-- [ ] Coursera 5 Course Specialization (Ng, in python)
-- [ ] Other Ng course on Coursera (longer one, in matlab)
-- [ ] How to Grow a Mind: Statistics, Structure and Abstraction by Josh Tenenbaum @ AAAI 2012 (hour long talk)
+- [x] Coursera 5 Course Specialization (Ng, in python)
+- [x] Other Ng course on Coursera (longer one, in matlab)
+- [x] How to Grow a Mind: Statistics, Structure and Abstraction by Josh Tenenbaum @ AAAI 2012 (hour long talk)
 
 ##  Step x
 - [ ] Capstone project
