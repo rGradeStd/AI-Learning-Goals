@@ -139,8 +139,6 @@ Cover, T. and Thomas, J. "Elements of Information Theory" Wiley.
 
 Some of my potential projects include damaged photo restoration, ai stock trading system, machine learning to generate css, various robotics based AI (servo arm to play tic tac toe) and much more.
 
-need to add in cs 898 and 698 audit courses at waterloo
-
 Papers i will read, implement and summarize, possibly post on here in tex or medium posts. 
 
 Fill in unknown and or weak concepts, Quantstart articles have very solid resourses https://www.quantstart.com/articles
