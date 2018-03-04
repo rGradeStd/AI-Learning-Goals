@@ -5,3 +5,7 @@ Warning it is very rigorous and I believe that the true way to learn AI is with 
 With school as im only in second year I give myself around 3 years to fully get through and understand everything in said learning goals, if you are exceptional you can do it much faster.
 
 All homework assignments from online courses and problems from textbooks should be completed for maximum understanding.
+
+This summer I will also be Auditing cs 898 and 698 at the University Of Waterloo.
+
+And remember the internet is the best university, tons of resources can be found online.
