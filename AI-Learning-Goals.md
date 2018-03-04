@@ -133,7 +133,7 @@ Cover, T. and Thomas, J. "Elements of Information Theory" Wiley.
 
 
 
-## Great you should now roughly have a PHD level understanding of AI. Choose something you find most fascinating and specialize. Keep reading tons of papers, attending conferences and working with your peers.
+## Great you should now roughly have a pretty good understanding of machine learning stuff. Choose something you find most fascinating and specialize. Keep reading tons of papers, attending conferences and working with your peers.
 
 
 
