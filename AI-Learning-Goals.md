@@ -27,6 +27,8 @@
 
 Currently I am reading Introduction to statistical learning, and Elements of statisitcal learning as well as - Think Stats, and Think Bayes [Allen B. Downey]
 
+(not decided as of right now but might go through Pattern Recognition and Machine Learning by Christopher Bishop and or Machine Learning: A Probabilistic Perspective)
+
 From here on I will do the following (List taken from Michael Jordan's recommended readings)
 
 - [ ] Ferguson, T. (1996). "A Course in Large Sample Theory" Chapman & Hall/CRC.
