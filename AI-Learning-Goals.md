@@ -23,13 +23,72 @@
 - [x] Other Ng course on Coursera (longer one, in matlab)
 - [x] How to Grow a Mind: Statistics, Structure and Abstraction by Josh Tenenbaum @ AAAI 2012 (hour long talk)
 
-## Take a little break to learn a lot of math and stats aswell as information theory
+## Wasnt getting the in depth understading i wanted so taking a little break from the AI to learn a lot of math and stats aswell as information theory and an develop an abstract mathematical mind
 
-Currently I am reading Introduction to statistical learning, and Elements of statisitcal learning as well as - Think Stats, and Think Bayes [Allen B. Downey]
+- [ ] The Lady and the Tiger - Raymond Smullyan
+- [ ] How to Solve it - Gyorgy Polya
+- [ ] Proofs are Programs [pdf] - Philip Wadler
+- [ ] Introduction to Analysis - Maxwell Rosenlicht
 
-(not decided as of right now but might go through Pattern Recognition and Machine Learning by Christopher Bishop and or Machine Learning: A Probabilistic Perspective)
+## Algorithms and Computer Science Stuff
+- [ ] Introduction to Algorithms by Charles E. Leiserson 
+- [ ] The Algorithms Design Manual - Steven Skiena
+- [ ] Purely Functional Data Structures
+- [ ] Data-Intensive Text Processing with MapReduce - Jimmy Lin and Chris Dyer
+- [ ] Map-Reduce for Machine Learning on Multicore - from a group in the Stanford CS department
 
-From here on I will do the following (List taken from Michael Jordan's recommended readings)
+## Probability Stuff
+- [ ] The Drunkard's Walk: How Randomness Rules Our Lives (Vintage) by Leonard Mlodinow
+- [ ] A Course in Probability Theory, Revised Edition, Second Edition by Kai Lai Chung 
+- [ ] First Look at Rigorous Probability Theory by Jeffrey S. Rosenthal
+- [ ] Probability Theory: The Logic of Science - E. T. Jaynes
+
+## Basic Stats
+- [ ] Think Stats, and Think Bayes [Allen B. Downey]
+
+## More Advanced Stats
+- [ ] All of Statistics: A Concise Course in Statistical Inference (Springer Texts in Statistics) by Larry Wasserman
+- [ ] Introduction to Statistical Learning
+- [ ] Testing Statistical Hypothesis - E. L. Lehmann
+- [ ] Bayesian Statistics - William M. Bolstad
+- [ ] Modern Multivariate Statistical Techniques - Alan Julian Izenman
+
+## Non-parametric and robust statistics 
+- [ ] Robust Statistics - Peter J. Huber
+- [ ] Robust Statistics: The Approach Based on Influence Functions - Frank R. Hampel
+- [ ] Robust Regression - Peter J. Rousseeuw
+- [ ] All of Nonparametric Statistics - Larry Wasserman
+
+## Machine Learning Stuff
+- [ ] Pattern Recognition and Machine Learning - Christopher Bishop
+- [ ] Machine Learning: A Probabilistic Perspective
+- [ ] Information Theory, Inference and Leaning Algorithms - David J. C. MacKay
+- [ ] The Elements of Statistical Learning by Robert Tibshirani, et al.
+
+## Understanding Features and Feature Selection
+- [ ] Feature Extraction - Isabelle Guyon, et al.
+- [ ] Computational Methods of Feature Selection - Huan Liu, Hiroshi Motoda
+
+## Heuristic search and optimization 
+- [ ] Introduction to Stochastic Search and Optimization by James C. Spall 
+- [ ] Convex Optimization (online) - Stephen Boyd
+
+## Bayesian networks and graphical models
+- [ ] Modeling and Reasoning with Bayesian Networks - Adnan Darwiche
+- [ ] Probabilistic Graphical Models - Nir Friedman
+
+## Stuff with Text
+- [ ] Introduction to Information Retrieval - Christopher D. Manning (available free online)
+- [ ] Foundations of Statistical Natural Language Processing - Christopher D. Manning
+
+## Network-Theory (Maybe)
+- [ ] Introductory Graph Theory - Gary Chartrand
+- [ ] Social Network Analysis - Stanley Wasserman
+- [ ] Statistical Analysis of Network Data - Eric D. Kolaczyk
+- [ ] Network Flows - Ravindra K. Ahuja
+- [ ] Fundamentals in Queuing Theory - Donald Gross, et al.
+
+From here on I will fill my gaps with these (List taken from Michael Jordan's recommended readings)
 
 - [ ] Ferguson, T. (1996). "A Course in Large Sample Theory" Chapman & Hall/CRC.
 
@@ -53,9 +112,6 @@ Pollard, D. (2001). "A User's Guide to Measure Theoretic Probability" Cambridge.
 - [ ] Machine learning research also reposes on optimization theory. A good starting book on linear optimization that will prepare you for convex optimization:
 Bertsimas, D. and Tsitsiklis, J. (1997). "Introduction to Linear Optimization" Athena.
 
-- [ ] And then you can graduate to:
-Boyd, S. and Vandenberghe, L. (2004). "Convex Optimization" Cambridge.
-
 - [ ] Getting a full understanding of algorithmic linear algebra is also important. At some point you should feel familiar with most of the material in
 Golub, G., and Van Loan, C. (1996). "Matrix Computations" Johns Hopkins.
 
@@ -68,11 +124,9 @@ Cover, T. and Thomas, J. "Elements of Information Theory" Wiley.
 - [ ] Capstone project (damaged photo restoration)
 - [ ] Fast Ai (part 2) (videos)
 
-
 ##  Step x
 - [ ] Artificial Intelligence: A modern approach [Part 1]
 - [ ] CS 188 (Youtube videos)
-- [ ] The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Hastie, et al
 
 ##  Step x
 - [ ] Artificial Intelligence: A modern approach [Part 2]
@@ -85,7 +139,6 @@ Cover, T. and Thomas, J. "Elements of Information Theory" Wiley.
 - [ ] Read Papers [1 - 2 papers]
 
 ##  Step x
-- [ ] Udacity Machine Learning for Trading
 - [ ] Critical Algorithm Studies: a Reading List by Tarleton Gillespie and Nick Seaver
 - [ ] Read Papers [1 - 2 papers]
 
@@ -133,6 +186,7 @@ Cover, T. and Thomas, J. "Elements of Information Theory" Wiley.
 
 ## Step x (trading resources, will be done throughout AI learning)
 - [ ] Beginner's Guide to Quantitative Trading (Quantstart)
+- [ ] Udacity Machine Learning for Trading
 - [ ] How to Identify Algorithmic Trading Strategies (Quantstart)
 - [ ] Successful Backtesting of Algorithmic Trading Strategies - Part I
 - [ ] Successful Backtesting of Algorithmic Trading Strategies - Part II
