@@ -30,8 +30,14 @@
 - [ ] Proofs are Programs [pdf] - Philip Wadler
 - [ ] Introduction to Analysis - Maxwell Rosenlicht
 
-## Calculus
+## Calculus and Linear Algebra
 - [ ] Spivak Calculus
+- [ ] Vector Calculus, Linear Algebra, and Differential Forms: A Unified Approach
+- [ ] Strang, Gilbert, Linear Algebra and Its Applications (4th ed.)
+or
+- [ ] Greub, Werner H., Linear Algebra, Graduate Texts in Mathematics (4th ed.), Springer
+- [ ] Halmos, Paul R., Finite-Dimensional Vector Spaces, Undergraduate Texts in Mathematics, Springer
+- [ ] Shilov, Georgi E., Linear algebra, Dover Publications
 
 ## Algorithms and Computer Science Stuff
 - [ ] Introduction to Algorithms by Charles E. Leiserson 
