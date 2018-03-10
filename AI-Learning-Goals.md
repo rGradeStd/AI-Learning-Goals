@@ -30,6 +30,9 @@
 - [ ] Proofs are Programs [pdf] - Philip Wadler
 - [ ] Introduction to Analysis - Maxwell Rosenlicht
 
+## Calculus
+- [ ] Spivak Calculus
+
 ## Algorithms and Computer Science Stuff
 - [ ] Introduction to Algorithms by Charles E. Leiserson 
 - [ ] The Algorithms Design Manual - Steven Skiena
