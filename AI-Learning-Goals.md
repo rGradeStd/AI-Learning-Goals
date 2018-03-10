@@ -80,6 +80,8 @@ or
 
 ## Heuristic search and optimization 
 - [ ] Introduction to Stochastic Search and Optimization by James C. Spall 
+- [ ] Machine learning research also reposes on optimization theory. A good starting book on linear optimization that will prepare you for convex optimization:
+Bertsimas, D. and Tsitsiklis, J. (1997). "Introduction to Linear Optimization" Athena.
 - [ ] Convex Optimization (online) - Stephen Boyd
 
 ## Bayesian networks and graphical models
@@ -117,9 +119,6 @@ Grimmett, G. and Stirzaker, D. (2001). "Probability and Random Processes" Oxford
 Pollard, D. (2001). "A User's Guide to Measure Theoretic Probability" Cambridge.
 
 - [ ] The standard advanced textbook is Durrett, R. (2005). "Probability: Theory and Examples" Duxbury.
-
-- [ ] Machine learning research also reposes on optimization theory. A good starting book on linear optimization that will prepare you for convex optimization:
-Bertsimas, D. and Tsitsiklis, J. (1997). "Introduction to Linear Optimization" Athena.
 
 - [ ] Getting a full understanding of algorithmic linear algebra is also important. At some point you should feel familiar with most of the material in
 Golub, G., and Van Loan, C. (1996). "Matrix Computations" Johns Hopkins.
