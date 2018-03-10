@@ -11,7 +11,7 @@
 - [x] Introduction to Logic - Coursera
 - [x] How to Think Like a Computer Scientist - Runestone interactive
 - [x] Data Structures with Python - Runestone Academy
-
+- [ ] Art of Computer Programming 
 ##  Step x
 - [x] Fast.ai (Online Course Part 1)
 - [x] Introduction to AI (Udacity Course)
@@ -30,11 +30,12 @@
 - [ ] Proofs are Programs [pdf] - Philip Wadler
 - [ ] Introduction to Analysis - Maxwell Rosenlicht
 
+## Basic Stats
+- [ ] Think Stats, and Think Bayes [Allen B. Downey]
+
 ## Calculus and Linear Algebra
 - [ ] Spivak Calculus
 - [ ] Vector Calculus, Linear Algebra, and Differential Forms: A Unified Approach
-- [ ] Strang, Gilbert, Linear Algebra and Its Applications (4th ed.)
-or
 - [ ] Greub, Werner H., Linear Algebra, Graduate Texts in Mathematics (4th ed.), Springer
 - [ ] Halmos, Paul R., Finite-Dimensional Vector Spaces, Undergraduate Texts in Mathematics, Springer
 - [ ] Shilov, Georgi E., Linear algebra, Dover Publications
@@ -51,9 +52,6 @@ or
 - [ ] A Course in Probability Theory, Revised Edition, Second Edition by Kai Lai Chung 
 - [ ] First Look at Rigorous Probability Theory by Jeffrey S. Rosenthal
 - [ ] Probability Theory: The Logic of Science - E. T. Jaynes
-
-## Basic Stats
-- [ ] Think Stats, and Think Bayes [Allen B. Downey]
 
 ## More Advanced Stats
 - [ ] All of Statistics: A Concise Course in Statistical Inference (Springer Texts in Statistics) by Larry Wasserman
