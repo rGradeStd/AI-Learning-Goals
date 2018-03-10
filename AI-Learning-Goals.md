@@ -23,7 +23,7 @@
 - [x] Other Ng course on Coursera (longer one, in matlab)
 - [x] How to Grow a Mind: Statistics, Structure and Abstraction by Josh Tenenbaum @ AAAI 2012 (hour long talk)
 
-## Wasnt getting the in depth understading i wanted so taking a little break from the AI to learn a lot of math and stats aswell as information theory and an develop an abstract mathematical mind
+## Wasnt getting the in depth understading i wanted so taking a little break from the AI to learn a lot of math and stats aswell as information theory and to develop an abstract mathematical mind
 
 - [ ] The Lady and the Tiger - Raymond Smullyan
 - [ ] How to Solve it - Gyorgy Polya
